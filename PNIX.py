@@ -90,7 +90,7 @@ def PNIX(number):
     data = response.json()
     
     client = numlookupapi.Client('num_live_OoqxL0v9iiUF4rk2Y0H2GaoqgyeyFV7bT8oQQxWK')
-    location = client.validate('+919993931245')['location']
+    location = client.validate(parsed)['location']
     
     
     print(Fore.LIGHTMAGENTA_EX + Style.BRIGHT + "Country Code : " + Fore.LIGHTGREEN_EX + f"+{country_code}" + Style.RESET_ALL)
