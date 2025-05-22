@@ -104,7 +104,7 @@ def PNIX(number):
     print(Fore.LIGHTMAGENTA_EX + Style.BRIGHT + "Is Vaild : " + Fore.LIGHTGREEN_EX + f"{is_vaild}" + Style.RESET_ALL)
     print(Fore.LIGHTMAGENTA_EX + Style.BRIGHT + "Is Possible : " + Fore.LIGHTGREEN_EX + f"{is_possible}" + Style.RESET_ALL)
     print(Fore.LIGHTMAGENTA_EX + Style.BRIGHT + "Format Number : " + Fore.LIGHTGREEN_EX + f"{format_no}" + Style.RESET_ALL)
-    print(Fore.LIGHTMAGENTA_EX + Style.BRIGHT + "Format Number : " + Fore.LIGHTGREEN_EX + f"{format_no}" + Style.RESET_ALL)
+    print(Fore.LIGHTMAGENTA_EX + Style.BRIGHT + "Number Type : " + Fore.LIGHTGREEN_EX + f"{number_type}" + Style.RESET_ALL)
     
     
         
