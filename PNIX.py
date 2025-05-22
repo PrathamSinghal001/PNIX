@@ -13,6 +13,12 @@ from phonenumbers.phonenumberutil import NumberParseException
 from colorama import init, Fore, Style
 import requests
 import numlookupapi
+import os
+
+def clear_screen():
+    os.system('cls' if os.name == 'nt' else 'clear')
+
+clear_screen()
 
 init(autoreset=True)
 
