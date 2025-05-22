@@ -11,7 +11,7 @@ P.N.I.X (Phone Number Information Xtracter) is an open-source Python tool design
 
 📸 Screenshot
 
-![P.N.I.X Screenshot](https://github.com/yourusername/pnix/assets/screenshot.png)
+![P.N.I.X Screenshot](https://github.com/PrathamSinghal001/PNIX/blob/86d672d3116191af4e4832ecb2ae1399c3d18891/Screenshot%202025-05-22%20090742.png)
 
 Replace the above URL with the actual path to your screenshot image in the repository.
 
