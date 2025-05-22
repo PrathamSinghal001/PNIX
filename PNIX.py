@@ -105,7 +105,7 @@ def PNIX(number):
 
     file_name = input("Enter the File name to save Xtract details in txt file : ")
     
-    with open (rf"D:\\Programming\\python\\Projects\\Hacking Tools Projects\\{file_name}.txt", "w") as file:
+    with open (f"{file_name}.txt", "w") as file:
         file.write(f"Phone Number : {number}\n")
         file.write(f"Country Code : {country_code}\n")
         file.write(f"National No.  : {national_no}\n")
